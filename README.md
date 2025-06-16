@@ -86,9 +86,6 @@ Or use the `.env.example` as a template.
 ```bash
 streamlit run StreamlitApp.py
 ```
-
-Open your browser at: [https://sayedalihassaan-qa-with-doc-using-llamainde-streamlitapp-sg1oen.streamlit.app/]([http://localhost:8501](https://sayedalihassaan-qa-with-doc-using-llamainde-streamlitapp-sg1oen.streamlit.app/))
-
 ---
 
 ## 📚 How It Works
