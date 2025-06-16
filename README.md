@@ -87,7 +87,7 @@ Or use the `.env.example` as a template.
 streamlit run StreamlitApp.py
 ```
 
-Open your browser at: [http://localhost:8501]([http://localhost:8501](https://sayedalihassaan-qa-with-doc-using-llamainde-streamlitapp-sg1oen.streamlit.app/))
+Open your browser at: [https://sayedalihassaan-qa-with-doc-using-llamainde-streamlitapp-sg1oen.streamlit.app/]([http://localhost:8501](https://sayedalihassaan-qa-with-doc-using-llamainde-streamlitapp-sg1oen.streamlit.app/))
 
 ---
 
@@ -129,7 +129,3 @@ MIT License © 2025
 ## 🤝 Contributors
 
 * Eng. Sayed Ali – AI Engineer & Project Lead
-
----
-
-هل تحب أضيف ملف `README.md` داخل المشروع لك تلقائيًا؟
