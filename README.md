@@ -87,7 +87,7 @@ Or use the `.env.example` as a template.
 streamlit run StreamlitApp.py
 ```
 
-Open your browser at: [http://localhost:8501](http://localhost:8501)
+Open your browser at: [http://localhost:8501]([http://localhost:8501](https://sayedalihassaan-qa-with-doc-using-llamainde-streamlitapp-sg1oen.streamlit.app/))
 
 ---
 
